@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		292293641EE683D400E75766 /* ClipViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 292293521EE683D400E75766 /* ClipViewController.m */; };
+		292293651EE683D400E75766 /* cameraPhoto@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293541EE683D400E75766 /* cameraPhoto@2x.png */; };
+		292293661EE683D400E75766 /* cameraPhoto@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293551EE683D400E75766 /* cameraPhoto@3x.png */; };
+		292293671EE683D400E75766 /* cancleCamera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293561EE683D400E75766 /* cancleCamera@2x.png */; };
+		292293681EE683D400E75766 /* cancleCamera@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293571EE683D400E75766 /* cancleCamera@3x.png */; };
+		292293691EE683D400E75766 /* closeFlish@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293581EE683D400E75766 /* closeFlish@2x.png */; };
+		2922936A1EE683D400E75766 /* closeFlish@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293591EE683D400E75766 /* closeFlish@3x.png */; };
+		2922936B1EE683D400E75766 /* openFlish@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922935A1EE683D400E75766 /* openFlish@2x.png */; };
+		2922936C1EE683D400E75766 /* openFlish@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922935B1EE683D400E75766 /* openFlish@3x.png */; };
+		2922936D1EE683D400E75766 /* sureCamera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922935C1EE683D400E75766 /* sureCamera@2x.png */; };
+		2922936E1EE683D400E75766 /* sureCamera@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922935D1EE683D400E75766 /* sureCamera@3x.png */; };
+		2922936F1EE683D400E75766 /* takePhoto@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922935E1EE683D400E75766 /* takePhoto@2x.png */; };
+		292293701EE683D400E75766 /* takePhoto@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922935F1EE683D400E75766 /* takePhoto@3x.png */; };
+		292293711EE683D400E75766 /* TKImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 292293611EE683D400E75766 /* TKImageView.m */; };
+		292293741EE687A100E75766 /* canclePhoto@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293721EE687A100E75766 /* canclePhoto@2x.png */; };
+		292293751EE687A100E75766 /* canclePhoto@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293731EE687A100E75766 /* canclePhoto@3x.png */; };
+		292293781EE687E300E75766 /* clipPhoto@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293761EE687E300E75766 /* clipPhoto@3x.png */; };
+		292293791EE687E300E75766 /* clipPhoto@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 292293771EE687E300E75766 /* clipPhoto@2x.png */; };
+		2922937C1EE6887800E75766 /* surePhoto@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922937A1EE6887800E75766 /* surePhoto@2x.png */; };
+		2922937D1EE6887800E75766 /* surePhoto@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922937B1EE6887800E75766 /* surePhoto@3x.png */; };
+		292293801EE68C5C00E75766 /* backPhoto@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922937E1EE68C5C00E75766 /* backPhoto@2x.png */; };
+		292293811EE68C5C00E75766 /* backPhoto@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2922937F1EE68C5C00E75766 /* backPhoto@3x.png */; };
+		292293841EE69D1300E75766 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 292293831EE69D1300E75766 /* CameraViewController.m */; };
 		2972263F1EE0FF2400025BE4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2972263E1EE0FF2400025BE4 /* main.m */; };
 		297226421EE0FF2400025BE4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 297226411EE0FF2400025BE4 /* AppDelegate.m */; };
 		297226451EE0FF2400025BE4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 297226441EE0FF2400025BE4 /* ViewController.m */; };
@@ -35,6 +58,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		292293511EE683D400E75766 /* ClipViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClipViewController.h; sourceTree = "<group>"; };
+		292293521EE683D400E75766 /* ClipViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClipViewController.m; sourceTree = "<group>"; };
+		292293541EE683D400E75766 /* cameraPhoto@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cameraPhoto@2x.png"; sourceTree = "<group>"; };
+		292293551EE683D400E75766 /* cameraPhoto@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cameraPhoto@3x.png"; sourceTree = "<group>"; };
+		292293561EE683D400E75766 /* cancleCamera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cancleCamera@2x.png"; sourceTree = "<group>"; };
+		292293571EE683D400E75766 /* cancleCamera@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cancleCamera@3x.png"; sourceTree = "<group>"; };
+		292293581EE683D400E75766 /* closeFlish@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "closeFlish@2x.png"; sourceTree = "<group>"; };
+		292293591EE683D400E75766 /* closeFlish@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "closeFlish@3x.png"; sourceTree = "<group>"; };
+		2922935A1EE683D400E75766 /* openFlish@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "openFlish@2x.png"; sourceTree = "<group>"; };
+		2922935B1EE683D400E75766 /* openFlish@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "openFlish@3x.png"; sourceTree = "<group>"; };
+		2922935C1EE683D400E75766 /* sureCamera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sureCamera@2x.png"; sourceTree = "<group>"; };
+		2922935D1EE683D400E75766 /* sureCamera@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sureCamera@3x.png"; sourceTree = "<group>"; };
+		2922935E1EE683D400E75766 /* takePhoto@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "takePhoto@2x.png"; sourceTree = "<group>"; };
+		2922935F1EE683D400E75766 /* takePhoto@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "takePhoto@3x.png"; sourceTree = "<group>"; };
+		292293601EE683D400E75766 /* TKImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TKImageView.h; sourceTree = "<group>"; };
+		292293611EE683D400E75766 /* TKImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TKImageView.m; sourceTree = "<group>"; };
+		292293721EE687A100E75766 /* canclePhoto@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "canclePhoto@2x.png"; sourceTree = "<group>"; };
+		292293731EE687A100E75766 /* canclePhoto@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "canclePhoto@3x.png"; sourceTree = "<group>"; };
+		292293761EE687E300E75766 /* clipPhoto@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clipPhoto@3x.png"; sourceTree = "<group>"; };
+		292293771EE687E300E75766 /* clipPhoto@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clipPhoto@2x.png"; sourceTree = "<group>"; };
+		2922937A1EE6887800E75766 /* surePhoto@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "surePhoto@2x.png"; sourceTree = "<group>"; };
+		2922937B1EE6887800E75766 /* surePhoto@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "surePhoto@3x.png"; sourceTree = "<group>"; };
+		2922937E1EE68C5C00E75766 /* backPhoto@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "backPhoto@2x.png"; sourceTree = "<group>"; };
+		2922937F1EE68C5C00E75766 /* backPhoto@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "backPhoto@3x.png"; sourceTree = "<group>"; };
+		292293821EE69D1300E75766 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
+		292293831EE69D1300E75766 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
 		2972263A1EE0FF2400025BE4 /* Camera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Camera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2972263E1EE0FF2400025BE4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		297226401EE0FF2400025BE4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,6 +127,47 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2922934C1EE683D400E75766 /* CameraTool */ = {
+			isa = PBXGroup;
+			children = (
+				292293821EE69D1300E75766 /* CameraViewController.h */,
+				292293831EE69D1300E75766 /* CameraViewController.m */,
+				292293511EE683D400E75766 /* ClipViewController.h */,
+				292293521EE683D400E75766 /* ClipViewController.m */,
+				292293531EE683D400E75766 /* image */,
+				292293601EE683D400E75766 /* TKImageView.h */,
+				292293611EE683D400E75766 /* TKImageView.m */,
+			);
+			path = CameraTool;
+			sourceTree = "<group>";
+		};
+		292293531EE683D400E75766 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				2922937E1EE68C5C00E75766 /* backPhoto@2x.png */,
+				2922937F1EE68C5C00E75766 /* backPhoto@3x.png */,
+				2922937A1EE6887800E75766 /* surePhoto@2x.png */,
+				2922937B1EE6887800E75766 /* surePhoto@3x.png */,
+				292293761EE687E300E75766 /* clipPhoto@3x.png */,
+				292293771EE687E300E75766 /* clipPhoto@2x.png */,
+				292293721EE687A100E75766 /* canclePhoto@2x.png */,
+				292293731EE687A100E75766 /* canclePhoto@3x.png */,
+				292293541EE683D400E75766 /* cameraPhoto@2x.png */,
+				292293551EE683D400E75766 /* cameraPhoto@3x.png */,
+				292293561EE683D400E75766 /* cancleCamera@2x.png */,
+				292293571EE683D400E75766 /* cancleCamera@3x.png */,
+				292293581EE683D400E75766 /* closeFlish@2x.png */,
+				292293591EE683D400E75766 /* closeFlish@3x.png */,
+				2922935A1EE683D400E75766 /* openFlish@2x.png */,
+				2922935B1EE683D400E75766 /* openFlish@3x.png */,
+				2922935C1EE683D400E75766 /* sureCamera@2x.png */,
+				2922935D1EE683D400E75766 /* sureCamera@3x.png */,
+				2922935E1EE683D400E75766 /* takePhoto@2x.png */,
+				2922935F1EE683D400E75766 /* takePhoto@3x.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
 		297226311EE0FF2400025BE4 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +191,7 @@
 		2972263C1EE0FF2400025BE4 /* Camera */ = {
 			isa = PBXGroup;
 			children = (
+				2922934C1EE683D400E75766 /* CameraTool */,
 				297226401EE0FF2400025BE4 /* AppDelegate.h */,
 				297226411EE0FF2400025BE4 /* AppDelegate.m */,
 				297226431EE0FF2400025BE4 /* ViewController.h */,
@@ -249,9 +340,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2922936A1EE683D400E75766 /* closeFlish@3x.png in Resources */,
+				292293811EE68C5C00E75766 /* backPhoto@3x.png in Resources */,
+				292293681EE683D400E75766 /* cancleCamera@3x.png in Resources */,
+				2922936D1EE683D400E75766 /* sureCamera@2x.png in Resources */,
+				2922936E1EE683D400E75766 /* sureCamera@3x.png in Resources */,
+				2922936F1EE683D400E75766 /* takePhoto@2x.png in Resources */,
+				292293661EE683D400E75766 /* cameraPhoto@3x.png in Resources */,
+				292293691EE683D400E75766 /* closeFlish@2x.png in Resources */,
 				2972264D1EE0FF2400025BE4 /* LaunchScreen.storyboard in Resources */,
 				2972264A1EE0FF2400025BE4 /* Assets.xcassets in Resources */,
+				292293651EE683D400E75766 /* cameraPhoto@2x.png in Resources */,
+				292293801EE68C5C00E75766 /* backPhoto@2x.png in Resources */,
+				292293701EE683D400E75766 /* takePhoto@3x.png in Resources */,
+				292293751EE687A100E75766 /* canclePhoto@3x.png in Resources */,
+				292293791EE687E300E75766 /* clipPhoto@2x.png in Resources */,
+				2922937D1EE6887800E75766 /* surePhoto@3x.png in Resources */,
+				292293781EE687E300E75766 /* clipPhoto@3x.png in Resources */,
+				2922936B1EE683D400E75766 /* openFlish@2x.png in Resources */,
 				297226481EE0FF2400025BE4 /* Main.storyboard in Resources */,
+				292293671EE683D400E75766 /* cancleCamera@2x.png in Resources */,
+				2922936C1EE683D400E75766 /* openFlish@3x.png in Resources */,
+				2922937C1EE6887800E75766 /* surePhoto@2x.png in Resources */,
+				292293741EE687A100E75766 /* canclePhoto@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,9 +387,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				292293711EE683D400E75766 /* TKImageView.m in Sources */,
+				292293641EE683D400E75766 /* ClipViewController.m in Sources */,
 				297226451EE0FF2400025BE4 /* ViewController.m in Sources */,
 				297226421EE0FF2400025BE4 /* AppDelegate.m in Sources */,
 				2972263F1EE0FF2400025BE4 /* main.m in Sources */,
+				292293841EE69D1300E75766 /* CameraViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,6 +545,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = CM8TYYCWTK;
 				INFOPLIST_FILE = Camera/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sadfas.Camera;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -443,6 +558,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = CM8TYYCWTK;
 				INFOPLIST_FILE = Camera/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sadfas.Camera;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -518,6 +634,7 @@
 				297226691EE0FF2400025BE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2972266A1EE0FF2400025BE4 /* Build configuration list for PBXNativeTarget "CameraTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +643,7 @@
 				2972266C1EE0FF2400025BE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2972266D1EE0FF2400025BE4 /* Build configuration list for PBXNativeTarget "CameraUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +652,7 @@
 				2972266F1EE0FF2400025BE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
