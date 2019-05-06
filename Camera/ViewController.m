@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "CameraViewController.h"
+#import "CameraTool/CameraViewController.h"
 
 @interface ViewController ()<CameraDelegate>
 

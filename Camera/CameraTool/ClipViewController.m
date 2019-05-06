@@ -137,11 +137,11 @@
             [self.delegate clipPhoto:self.image];
         }
         
-        if (self.isTakePhoto) {
-            
-            //将图片存储到相册
-            UIImageWriteToSavedPhotosAlbum(self.image, self, nil, nil);
-        }
+//        if (self.isTakePhoto) {
+//            
+//            //将图片存储到相册
+//            UIImageWriteToSavedPhotosAlbum(self.image, self, nil, nil);
+//        }
     
     }
     
