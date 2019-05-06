@@ -403,6 +403,15 @@
     
 }
 
+/**
+ 相册代理取消操作
+ 
+ @param picker 相册对象
+ */
+- (void)imagePickerControllerDidCancel:(UIImagePickerController *)picker {
+    [picker dismissViewControllerAnimated:YES completion:nil];
+}
+
 - (void)cropImage: (UIImage *)image {
     ClipViewController *viewController = [[ClipViewController alloc] init];
     viewController.image = image;
