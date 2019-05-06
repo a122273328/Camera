@@ -121,10 +121,10 @@
         
         UIImage *image = [_tkImageView currentCroppedImage];
         
-        if (self.isTakePhoto) {
-            //将图片存储到相册
-            UIImageWriteToSavedPhotosAlbum(image, self, nil, nil);
-        }
+//        if (self.isTakePhoto) {
+//            //将图片存储到相册
+//            UIImageWriteToSavedPhotosAlbum(image, self, nil, nil);
+//        }
         
         if (self.delegate && [self.delegate respondsToSelector:@selector(clipPhoto:)]) {
             
